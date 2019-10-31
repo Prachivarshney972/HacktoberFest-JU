@@ -1,6 +1,5 @@
 # HacktoberFest-JU
-
-It's hard, It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way the new open source contributors learn and contribute for the first time.
+It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way the new open source contributors learn and contribute for the first time.
 
 Reading articles and watching tutorials can help, but what's better than actually doing the stuff in a practical enviorment? COSEC aims at providing guidance & simplifing the way beginners make thier first contribution.
 If you are looking to do your first contribution in open source then COSEC is a good place to learn.
