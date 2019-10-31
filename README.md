@@ -5,15 +5,15 @@ Reading articles and watching tutorials can help, but what's better than actuall
 If you are looking to do your first contribution in open source then COSEC is a good place to learn.
 
 
-If you dont have git installed on your system <a href="https://git-scm.com/downloads">Install it.</a>
+If you dont have git installed on your system <a href="https://git-scm.com/downloads"> then Install it.</a>
 
 ## Fork this repository
 Fork this repo by clicking on the fork button on the top of the page. This will create a copy of this repository in yoour account.
 
 ## Clone the repository
-Now clone the fork repo to your machine go to your github account open the forked repo, click on the clone button and then click on the copy to clipboard icon.
+Now   ,  clone the fork repo to your machine go to your github account open the forked repo, click on the clone button and then click on the copy to clipboard icon.
 
-Open a terminal and run the following command.
+Open a terminal ;  and run the following command.
 
 ```
 git clone "URL you just copied"
